@@ -1,0 +1,10 @@
+^F:\C++ PROJECTS\HOCANIN_EKLEDIKLERI\BUILD\CMAKEFILES\A8684EF2C04BDDC29A8D72ED96D83304\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SF:/c++ projects/hocanin_ekledikleri" "-BF:/c++ projects/hocanin_ekledikleri/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "F:/c++ projects/hocanin_ekledikleri/build/CMakeTemplate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

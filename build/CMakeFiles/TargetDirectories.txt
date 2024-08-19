@@ -1,0 +1,3 @@
+F:/c++ projects/hocanin_ekledikleri/build/CMakeFiles/CMakeTemplate.dir
+F:/c++ projects/hocanin_ekledikleri/build/CMakeFiles/ALL_BUILD.dir
+F:/c++ projects/hocanin_ekledikleri/build/CMakeFiles/ZERO_CHECK.dir
